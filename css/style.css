@@ -1,1 +1,9 @@
-.button { display: -ms-inline-flexbox; display: inline-flex; border: 2px solid black; background: grey; color: black; }
+body { margin: 0 auto; padding: 0; text-align: center; }
+
+.controls { text-align: center; margin: 25px; }
+
+.button { border: 2px solid black; background: green; color: white; font-size: 28px; padding: 0 25px; text-decoration: none; border-radius: 5px; }
+
+#stop { background: red; }
+
+.stopwatch { font-size: 48px; }

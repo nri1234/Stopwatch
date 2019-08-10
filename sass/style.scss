@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
 body {
     margin: 0 auto;
     padding: 0;
@@ -22,6 +23,7 @@ body {
     text-decoration: none;
     border-radius: 5px;
     margin-bottom: 35px;
+    font-family: 'Montserrat', sans-serif;
 }
 #stop {
     color: red;
@@ -30,5 +32,6 @@ body {
     font-size: 58px;
     color: #ffff;
     padding: 45px;
+    font-family: 'Montserrat', sans-serif;
 }
 
